@@ -14,4 +14,4 @@ pip install .
 See `tasks/synthetic` for experiments using a synthetic data set.
 
 # Reference
-Hiroshi Kajino: "A Differentiable Point Process with Its Application to Spiking Neural Networks", ICML-21.
+Hiroshi Kajino: "A Differentiable Point Process with Its Application to Spiking Neural Networks", ICML-21 [[preprint](https://arxiv.org/abs/2106.00901)].
